@@ -1,0 +1,22 @@
+{
+  "id": "biodiesel",
+  "name": "Biodiesel from used cooking oil",
+  "category": "Sustainability / Energy",
+  "group": "Research & experiments",
+  "icon": "leaf",
+  "description": "Process to convert used cooking oil into biodiesel, tested on a small engine.",
+  "detail": "Converted waste cooking oil into biodiesel using a transesterification process. The original portfolio reports testing the resulting fuel on a small engine.",
+  "stack": [
+    "Transesterification",
+    "Filtration",
+    "Engine Testing"
+  ],
+  "status": "Completed",
+  "source": "https://reactportfolio-eosin.vercel.app/",
+  "image": "/projects/biodiesel.webp",
+  "url": "",
+  "liveUrl": "",
+  "award": "",
+  "featured": false,
+  "evidence": []
+}
